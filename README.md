@@ -21,9 +21,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently Working on implementing security mechanism with the help of 
-              Generative adversarial networks (GANs)
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🔭 &nbsp; I’m currently Working on Developing REST API Using Django REST Framework
 - 🌱 &nbsp; developing skills in **Web Development** and **Machine Learning**
 - 👯 &nbsp; Looking to collaborate on _**Open Source**_ and _**Personal**_ projects.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
